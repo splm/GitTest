@@ -11,3 +11,4 @@ public void main(){
 		//hah
 	}
 }
+modify some bugs!
